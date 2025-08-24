@@ -3,3 +3,5 @@ out
 vods
 .venv
 miniforge
+__pycache__
+venv
